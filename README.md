@@ -2,7 +2,7 @@
 
 **YAML-driven, prompt-first, framework-aware agent definitions for production AI systems**
 
-*AI Systems Architecture · 2026 — Version 1.1*
+*AI Systems Architecture · 2026 — Version 1.2*
 
 ---
 
