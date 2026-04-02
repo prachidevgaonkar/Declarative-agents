@@ -1,4 +1,6 @@
-# Declarative Agents: A Paradigm for AI Workflow Engineering
+
+<img width="707" height="393" alt="Screenshot 2026-04-02 at 1 53 29 AM" src="https://github.com/user-attachments/assets/8f73d240-38f2-469d-867f-2f0107755428" />
+
 
 **YAML-driven, prompt-first, framework-aware agent definitions for production AI systems**
 
