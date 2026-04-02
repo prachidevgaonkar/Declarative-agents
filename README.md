@@ -6,7 +6,7 @@
 
 ---
 
-## Overview
+## Introduction
 
 This paper introduces **declarative agents** — an architectural model for building AI-powered workflows where core behavioral intent is encoded in structured YAML specifications rather than framework-specific code.
 
